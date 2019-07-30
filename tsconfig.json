@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "outDir": "build/dist",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "es5",
+    "sourceMap": true,
+    "allowJs": true,
+    "jsx": "react"
+  }
+}
